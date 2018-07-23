@@ -1,0 +1,5 @@
+
+High frequency Stimulation of the Subthalamic Nucleus.
+
+- Left  - PseudoMonopolar, 3.2V, 60us, 130Hz
+- Right - PseudoMonopolar, 3.0v, 90us, 130Hz
